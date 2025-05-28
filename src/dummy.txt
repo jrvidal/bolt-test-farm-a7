@@ -1,7 +1,0 @@
-This is a dummy file.
-
-It contains some sample text to demonstrate file creation.
-
-Feel free to modify or delete this file as needed.
-
-Have a great day! 🌟
